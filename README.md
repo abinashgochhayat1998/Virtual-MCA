@@ -6,6 +6,6 @@ our Educational Website would provide all the education related stuffs:
 Notes, Sample Papers, Online Video Lectures and courses.
 It is completely responsive website, to provide smooth experience for students on all devices...😎
 
-https://abhishekpannu.github.io/virtualmca/
+https://abinashgochhayat1998.github.io/Virtual-MCA/
 
 If you like my project, give it a star 😁😁😁
